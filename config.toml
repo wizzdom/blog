@@ -1,0 +1,4 @@
+baseURL = "https://blog.wizzdom.me/"
+languageCode = "en-us"
+title = "WIZZDOM's Blog"
+theme = "fuji"
